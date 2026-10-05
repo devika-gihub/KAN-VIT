@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+einops
+wandb
+torchmetrics
+torchinfo
+seaborn
+scikit-learn
+tqdm
+Pillow
+opencv-python
+numpy
+matplotlib
