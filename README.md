@@ -2,10 +2,6 @@
 
 This repository contains the training, evaluation, and explainability code used for a retinal-image classification experiment.
 
-## Important attribution
-
-The `model.py` file contains the KAT architecture supplied with the original project and explicitly attributes the architecture to Xingyi Yang. The `efficient_kan.py` file also contains an implementation supplied with the project. Before public redistribution, retain the original upstream copyright/license and citation information for these components.
-
 The surrounding dataset, training, evaluation, and visualization scripts have been reorganized for readability, configuration, and reproducibility. Refactoring does not change the scientific ownership of third-party architecture code.
 
 ## Main files
