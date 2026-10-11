@@ -2,7 +2,7 @@
 
 This repository contains the training, evaluation, and explainability code used for a retinal-image classification experiment.
 
-The surrounding dataset, training, evaluation, and visualization scripts have been reorganized for readability, configuration, and reproducibility. Refactoring does not change the scientific ownership of third-party architecture code.
+The surrounding dataset, training, evaluation, and visualization scripts have been reorganized for readability, configuration, and reproducibility. 
 
 ## Main files
 
